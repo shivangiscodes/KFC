@@ -1,4 +1,7 @@
 # **KFC-look-alike**
+Shivangi Sharma
+23122132
+
 ## **Project Description**
 
 
